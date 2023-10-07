@@ -1,4 +1,4 @@
-[gd_scene load_steps=2 format=3 uid="uid://c2rc45ne8k11n"]
+[gd_scene load_steps=2 format=3 uid="uid://bm1h7tn2dnv3p"]
 
 [ext_resource type="Texture2D" uid="uid://btedpi7ba500i" path="res://icon.svg" id="1_bjr11"]
 
@@ -7,3 +7,5 @@
 [node name="Sprite2D" type="Sprite2D" parent="."]
 position = Vector2(194, 78)
 texture = ExtResource("1_bjr11")
+
+[node name="Camera2D" type="Camera2D" parent="."]
